@@ -3,6 +3,7 @@
 - [Luke Olende](https://github.com/LukeOlende)
 - [CemreTheBoss](https://github.com/cemrenurkeles)
 - Rachel W
+- [Jonathan Kelly]
 - [Arsile](https://github.com/itsarsile)
 - Srihari C 
 - [Spec-DY](https://github.com/Spec-DY) - hi! first merge!
